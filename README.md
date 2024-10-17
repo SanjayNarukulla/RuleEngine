@@ -40,7 +40,7 @@ The project uses SQLite for storing rules and application metadata. The schema i
 To run this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/SanjayNarukulla/RuleEngine.git>
 cd RuleEngine
 pip install -r requirements.txt
 
